@@ -5,11 +5,12 @@ Official implementation of **4DSurf: High-Fidelity Dynamic Scene Surface Reconst
 ## Reconstructed Meshes Download Link
 The reconstructed meshes will be available for download soon.
 
-## Training
+## SDF Flow Regularization Loss
 
 
 🚧 **Code Release Status**
 
 - [ ] Reconstructed Meshes (Coming soon)
-- [ ] Training and Inference Code
+- [ ] SDF Flow Regularization Loss
+- [ ] Full code
 
